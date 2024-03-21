@@ -1,0 +1,4 @@
+- from: .
+  to: /data
+  mode: mount
+  options: delegated
